@@ -1,6 +1,6 @@
 # [bluecometlabs.com](https://bluecometlabs.com)
 
-[![jekyll build]()
+[![jekyll build](https://github.com/bluecometlabs/bluecometlabs.com/actions/workflows/build.yml/badge.svg)](https://github.com/bluecometlabs/bluecometlabs.com/actions/workflows/build.yml)
 
 ## Requirements
 

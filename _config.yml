@@ -1,0 +1,31 @@
+title: Blue Comet Labs
+url: https://bluecometlabs.com
+timezone: Asia/Tokyo
+
+links:
+  twitter: https://twitter.com/BlueCometLabs
+  mastodon: https://mastodon.social/@bluecometlabs
+  expenses: https://getexpenses.app
+  eightplanets: https://8planets.app
+  rokuyo: https://apple.co/3GAlIDA
+  passwordgen: https://apple.co/31Hm9gF
+  rerere: https://apple.co/3KQdton
+  jekyll: https://jekyllrb.com
+
+sass:
+  style: compressed
+strict_front_matter: true
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+# https://jekyllrb.com/docs/configuration/default/
+exclude:
+- .github
+- .gitignore
+- .jekyll-cache
+- .sass-cache
+- CNAME
+- LICENSE
+- README.md

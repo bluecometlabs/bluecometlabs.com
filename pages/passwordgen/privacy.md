@@ -26,3 +26,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Summary of changes:
 - December 2, 2021: First published
+- April 24, 2023: Updated email address

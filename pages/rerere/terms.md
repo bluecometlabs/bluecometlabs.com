@@ -52,3 +52,4 @@ If you have any questions about these Terms, please feel free to <a href="mailto
 
 Summary of changes:
 - April 18, 2022: First published
+- April 24, 2023: Updated email address

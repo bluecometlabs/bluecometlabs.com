@@ -48,7 +48,7 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 If you have any questions about these Terms, please feel free to <a href="mailto:contact@bluecometlabs.com">contact us</a>.
 
----
+## Changes to this terms and conditions
 
 Summary of changes:
 - April 18, 2022: First published

@@ -18,10 +18,6 @@ If you have any questions about your privacy and our privacy policy, please feel
 
 ## Changes to this policy
 
-If we decide to change our privacy policy, we will post those changes on this page.
-
----
-
 Summary of changes:
 - April 18, 2022: First published
 - April 24, 2023: Updated email address

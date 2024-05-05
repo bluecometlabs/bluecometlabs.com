@@ -21,6 +21,7 @@ strict_front_matter: true
 plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
+- jekyll-redirect-from
 
 # https://jekyllrb.com/docs/configuration/default/
 exclude:

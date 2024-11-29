@@ -13,11 +13,11 @@ We specialize in developing iOS & macOS applications that deliver unique value, 
 If you have any questions, feel free to [contact us](mailto:contact@bluecometlabs.com).
 
 <div>
-    <a href="{{ site.links.github }}" target="_blank">github</a>
+    <a href="{{ site.links.github }}" target="_blank">GitHub</a>
      |
-    <a href="{{ site.links.twitter }}" target="_blank">twitter</a>
+    <a href="{{ site.links.twitter }}" target="_blank">X/Twitter</a>
      |
-    <a rel="me" href="{{ site.links.mastodon }}" target="_blank">mastodon</a>
+    <a rel="me" href="{{ site.links.mastodon }}" target="_blank">Mastodon</a>
 </div>
 
 We're currently working on the following apps:

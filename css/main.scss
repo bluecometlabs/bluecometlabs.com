@@ -87,16 +87,16 @@ figure,
 }
 
 /**
-  * Images
-  */
+ * Images
+ */
 img {
   max-width: 100%;
   vertical-align: middle;
 }
 
 /**
-  * Figures
-  */
+ * Figures
+ */
 figure > img {
   display: block;
 }
@@ -106,8 +106,8 @@ figcaption {
 }
 
 /**
-  * Lists
-  */
+ * Lists
+ */
 ul,
 ol {
   margin-left: $spacing-unit;
@@ -121,8 +121,8 @@ li {
 }
 
 /**
-  * Links
-  */
+ * Links
+ */
 a {
   color: $primary-content-color;
 
@@ -134,8 +134,8 @@ a {
 }
 
 /**
-  * Blockquotes
-  */
+ * Blockquotes
+ */
 blockquote {
   color: #828282;
   border-left: 2px solid;
@@ -149,8 +149,8 @@ blockquote {
 }
 
 /**
-  * Code formatting
-  */
+ * Code formatting
+ */
 pre,
 code {
   font-family: monospace;
@@ -178,8 +178,8 @@ pre {
 }
 
 /**
-  * Wrapper
-  */
+ * Wrapper
+ */
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -198,8 +198,8 @@ pre {
 }
 
 /**
-  * Clearfix
-  */
+ * Clearfix
+ */
 %clearfix {
   &:after {
     content: "";

@@ -13,11 +13,7 @@ Please read these Terms and Conditions ("Terms", "Terms and Conditions") careful
 
 ## Fee Changes
 
-Our apps, in its sole discretion and at any time, may modify the fees for the one-time purchase.
-
-## Refunds
-
-Except when required by law, paid fees are non-refundable.
+Our apps, in its sole discretion and at any time, may modify the fees.
 
 ## Accounts
 
@@ -56,3 +52,4 @@ If you have any questions about these Terms, please feel free to [contact us](/c
 Summary of changes:
 - April 5, 2020: First published
 - April 24, 2023: Updated email address
+- December 27, 2024: Updated fee changes section and removed refunds section

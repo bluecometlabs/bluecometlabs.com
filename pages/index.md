@@ -15,7 +15,7 @@ If you have any questions, feel free to [contact us](mailto:contact@bluecometlab
 <div>
     <a href="{{ site.links.github }}" target="_blank">GitHub</a>
      |
-    <a href="{{ site.links.twitter }}" target="_blank">X/Twitter</a>
+    <a href="{{ site.links.twitter }}" target="_blank">X</a>
      |
     <a rel="me" href="{{ site.links.mastodon }}" target="_blank">Mastodon</a>
 </div>

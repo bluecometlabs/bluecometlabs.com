@@ -21,7 +21,7 @@ Our apps don't collect any personal information and don't share it with third pa
 
 ## Sharing Information
 
-Our apps might use iCloud sharing to enable users to share expenses. With iCloud sharing, participants' identities are not made available to anyone who has not been invited to and accepted a private share.
+Our apps might use iCloud sharing to enable users to share data. With iCloud sharing, participants' identities are not made available to anyone who has not been invited to and accepted a private share.
 
 For more Information about iCloud, please see the iCloud section in [Apple's Privacy features](https://www.apple.com/privacy/features/).
 

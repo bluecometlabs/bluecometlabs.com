@@ -11,6 +11,8 @@ redirect_from:
 
 # Privacy Policy
 
+English \| [Japanese](/ja/privacy/)
+
 Our applications, mobile properties, and website (collectively, our "App") are owned and operated by Blue Comet Labs LLC ("Blue Comet Labs").
 
 We take your privacy seriously. It is our policy to respect your privacy regarding any information the app may collect from you. By downloading and using the app, you consent to our privacy policy.

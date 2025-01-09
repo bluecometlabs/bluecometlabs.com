@@ -4,8 +4,8 @@ title: Blue Comet Labs
 permalink: /
 ---
 
-<div class="text-center">
-    <img src="/assets/logo.svg" alt="Blue Comet Labs" height="300" width="300">
+<div class="text-right">
+    English | <a href="/ja/">日本語</a>
 </div>
 
 Blue Comet Labs is a software development company based in Osaka, Japan.

@@ -86,6 +86,10 @@ figure,
   margin-bottom: calc(#{$spacing-unit} / 2);
 }
 
+.text-right {
+  text-align: right;
+}
+
 /**
  * Images
  */
@@ -206,6 +210,16 @@ pre {
     display: table;
     clear: both;
   }
+}
+
+/**
+ * Nav header
+ */
+ .nav-header {
+  // Positioning context for the mobile navigation icon
+  position: relative;
+  background: var(--background-color);
+  padding: 15px;
 }
 
 /**

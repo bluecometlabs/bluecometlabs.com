@@ -1,14 +1,16 @@
 ---
-layout: default
+layout: default_ja
 title: プライバシーポリシー 
 permalink: /ja/privacy/
 redirect_from:
     - /ondrip/jp/privacy/
 ---
 
-# プライバシーポリシー
+<div class="text-right">
+    <a href="/privacy/">English</a> | 日本語
+</div>
 
-[英語](/privacy/) \| 日本語
+# プライバシーポリシー
 
 Blue Comet Labs LLC（以下、「当社」という）は、あなたのプライバシーを真剣に考えています。当社のアプリがあなたから収集する可能性のある情報に関して、あなたのプライバシーを尊重することが私たちの方針です。アプリをダウンロードして使用することにより、あなたは私たちのプライバシーポリシーに同意したことになります。
 

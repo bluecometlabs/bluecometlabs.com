@@ -9,9 +9,11 @@ redirect_from:
     - /rokuyo/privacy/
 ---
 
-# Privacy Policy
+<div class="text-right">
+    English | <a href="/ja/privacy/">日本語</a>
+</div>
 
-English \| [Japanese](/ja/privacy/)
+# Privacy Policy
 
 Our applications, mobile properties, and website (collectively, our "App") are owned and operated by Blue Comet Labs LLC ("Blue Comet Labs").
 

@@ -28,9 +28,7 @@ $on-laptop: 860px;
   }
 }
 
-/**
- * Reset some basic elements
- */
+// Reset some basic elements
 body,
 h1,
 h2,
@@ -50,9 +48,7 @@ figure {
   padding: 0;
 }
 
-/**
- * Basic styling
- */
+// Basic styling
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
@@ -65,9 +61,7 @@ body {
   font-kerning: normal;
 }
 
-/**
- * Set `margin-top` and `margin-bottom` to maintain vertical rhythm
- */
+// Set `margin-top` and `margin-bottom` to maintain vertical rhythm
 h1,
 h2,
 h3,
@@ -90,28 +84,13 @@ figure,
   text-align: right;
 }
 
-/**
- * Images
- */
+// Images
 img {
   max-width: 100%;
   vertical-align: middle;
 }
 
-/**
- * Figures
- */
-figure > img {
-  display: block;
-}
-
-figcaption {
-  font-size: $small-font-size;
-}
-
-/**
- * Lists
- */
+// Lists
 ul,
 ol {
   margin-left: $spacing-unit;
@@ -124,9 +103,7 @@ li {
   }
 }
 
-/**
- * Links
- */
+// Links
 a {
   color: $primary-content-color;
 
@@ -137,9 +114,7 @@ a {
   }
 }
 
-/**
- * Blockquotes
- */
+// Blockquotes
 blockquote {
   color: #828282;
   border-left: 2px solid;
@@ -152,9 +127,7 @@ blockquote {
   }
 }
 
-/**
- * Code formatting
- */
+// Code formatting
 pre,
 code {
   font-family: monospace;
@@ -181,9 +154,7 @@ pre {
   }
 }
 
-/**
- * Wrapper
- */
+// Wrapper
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -201,9 +172,7 @@ pre {
   }
 }
 
-/**
- * Clearfix
- */
+// Clearfix
 %clearfix {
   &:after {
     content: "";
@@ -212,9 +181,7 @@ pre {
   }
 }
 
-/**
- * Site footer
- */
+// Site footer
 .site-footer {
   background: $background-color;
   a {
@@ -235,19 +202,29 @@ pre {
   }
 }
 
-/**
- * Horizontal Rule
- */
+// Horizontal rule
 hr {
   border-top: 1px solid $border-color;
   margin-top: calc(#{$spacing-unit} / 2);
   margin-bottom: calc(#{$spacing-unit} / 2);
 }
 
-/**
- * Badge
- */
+// Badge
 .badge {
   color: $text-color !important;
   background-color: $secondary-background-color !important;
+}
+
+// Nav bar
+.navbar-brand {
+  color: var(--text-color) !important;
+  margin-right: 0;
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus {
+  background-color: transparent !important;
+  color: inherit !important;
+  text-decoration: none !important;
+  box-shadow: none !important;
 }

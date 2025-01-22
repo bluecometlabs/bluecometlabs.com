@@ -46,11 +46,3 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 ### Contact Us
 
 If you have any questions about these Terms, please feel free to [contact us](/contact/).
-
-### Changes to this terms and conditions 
-
-Summary of changes:
-- April 5, 2020: First published
-- April 24, 2023: Updated email address
-- December 27, 2024: Updated fee changes section and removed refunds section
-- January 16, 2025: Removed the section about the account

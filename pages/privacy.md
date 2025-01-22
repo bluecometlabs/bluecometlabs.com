@@ -32,9 +32,3 @@ For more Information about iCloud, please see the iCloud section in [Apple's Pri
 ### Contact Us
 
 If you have any questions about your privacy and our privacy policy, please feel free to <a href= "mailto:contact@bluecometlabs.com">contact us</a>.
-
-### Changes to this policy
-
-Summary of changes:
-- March 22, 2020: First published
-- April 23, 2023: Updated email address
